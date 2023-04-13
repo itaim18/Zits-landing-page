@@ -1,0 +1,70 @@
+{
+  "Header": {
+    "title": "אנחנו Zits",
+    "paragraph": "Zits היא אפליקצייה חדשנית שמחברת בין שורדי שואה למתנדבים מסורים בלחיצת כפתור בכדי לספק להם עזרה, תמיכה וסיוע."
+  },
+  "About": {
+    "paragraph": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית הועניב היושבב שערש שמחויט - שלושע ותלברו חשלו שעותלשך וחאית נובש ערששף. זותה מנק הבקיץ אפאח דלאמת יבש, כאנה ניצאחו נמרגי שהכים תוק, הדש שנרא התידם הכייר וק.קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.",
+    "Why": [
+      "אנחנו לא חוזרים על טעויות",
+      "אף פעם",
+      "אנחנו לא חוזרים על טעויות",
+      "בשום מצב"
+    ],
+    "Why2": [
+      "לא קורה ש",
+      "אנחנו לא חוזרים על טעויות",
+      "בחיים",
+      "אנחנו לא חוזרים על טעויות"
+    ]
+  },
+
+  "Team": [
+    {
+      "img": "img/team/04.png",
+      "name": "איתי מייזליש",
+      "job": "מפתח Full stack"
+    },
+    {
+      "img": "img/team/03.png",
+      "name": "יובל אפרת",
+      "job": "מנהל עסקי"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "אורית בויאר",
+      "job": "מעצבת חווית משתמש"
+    },
+    {
+      "img": "img/team/02.png",
+      "name": "חיים מגנזי",
+      "job": "מעצב חווית משתמש"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "חיבור מהיר",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+
+    {
+      "icon": "fa fa-group",
+      "title": "קהילה",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "שימוש בAI",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
