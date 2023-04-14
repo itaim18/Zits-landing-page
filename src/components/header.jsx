@@ -13,12 +13,34 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="https://expo.dev/artifacts/eas/5fPLaQ2ufz9BCjiVhRfsBv.apk"
-                  className="btn btn-custom btn-lg page-scroll"
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                  }}
                 >
-                  לחץ להורדה
-                </a>
+                  <a
+                    href="https://expo.dev/artifacts/eas/5fPLaQ2ufz9BCjiVhRfsBv.apk"
+                    className="btn btn-custom btn-lg page-scroll"
+                    style={{
+                      alignSelf: "center",
+                    }}
+                  >
+                    לחץ להורדה
+                  </a>
+                  <a
+                    href="https://youtu.be/vezFcTHqScA"
+                    target="_blank"
+                    rel="noreferrer"
+                    style={{
+                      marginTop: "12px",
+                      color: "white",
+                      textDecoration: "underline",
+                    }}
+                  >
+                    מדריך הורדה
+                  </a>
+                </div>
               </div>
             </div>
           </div>

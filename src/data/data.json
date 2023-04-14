@@ -4,17 +4,12 @@
     "paragraph": "Zits היא אפליקצייה חדשנית שמחברת בין שורדי שואה למתנדבים מסורים בלחיצת כפתור בכדי לספק להם עזרה, תמיכה וסיוע."
   },
   "About": {
-    "paragraph": "לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית הועניב היושבב שערש שמחויט - שלושע ותלברו חשלו שעותלשך וחאית נובש ערששף. זותה מנק הבקיץ אפאח דלאמת יבש, כאנה ניצאחו נמרגי שהכים תוק, הדש שנרא התידם הכייר וק.קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.",
-    "Why": [
-      "אנחנו לא חוזרים על טעויות",
-      "אף פעם",
-      "אנחנו לא חוזרים על טעויות",
-      "בשום מצב"
-    ],
+    "paragraph": "יש 12,000 פניות לעזרה מאוכלוסיית שורדי השואה בשנה, 50% בנושאי הבדידות והפגתו. דברים שלכל מתנדב קל לפתור, אך הבעיה היא ההתחייבות המרבית שיש בהתנדבות קלאסית, לכן פיתחנו אפליקציה שיוצרת את מודל volunteer on demand, על ידי לחיצה פשוטה נוצר קשר מיידי בין המתנדב לשורד וכך מגיע עוד zits לעולם💡",
+    "Why": ["מיידיות", "רלוונטיות", "סיוע בבדידות", "סיוע במשימות יומיומית"],
     "Why2": [
-      "לא קורה ש",
-      "אנחנו לא חוזרים על טעויות",
-      "בחיים",
+      "הבנה טובה יותר של מצוקת השורד",
+      "הורדת מחויבויות מהמתנדבים",
+      "פלטפורמה לארגונים",
       "אנחנו לא חוזרים על טעויות"
     ]
   },
@@ -53,18 +48,18 @@
     {
       "icon": "fa fa-comments-o",
       "title": "חיבור מהיר",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "מחברים אנשים ברגע-      ברגע שהשורד לוחץ על כפתור האירוע נשלחת התראה לכל המתנדבים הרלוונטיים ומאותו רגע הם יכולים ליצור איתו קשר."
     },
 
     {
       "icon": "fa fa-group",
       "title": "קהילה",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "zits היא קהילה גדולה ובתוכה קהילות רבות שמטרתן לסייע לשורד כל אחת בדרכה (בינהן: zits מבשלים, zits מפתחים וכו')."
     },
     {
       "icon": "fa fa-magic",
       "title": "שימוש בAI",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "אחת מהמטרות הגדולות שלנו זה שימוש בai כדי להבין טוב יותר את צרכי השורד ולדאוג שזה עובר בצורה הטובה ביותר למתנדב."
     }
   ]
 }

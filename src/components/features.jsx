@@ -12,7 +12,10 @@ export const Features = (props) => {
           <div className="col-xs-6 col-md-3">
             <FontAwesomeIcon icon={faPersonCane} className="fayy" />
             <h3>נגישות</h3>
-            <p>התמדה</p>
+            <p>
+              הצוות עבד בצורה מיטבית על הנגשת האפליקציה לגיל השלישי ולהקל על
+              השימוש בו.
+            </p>
           </div>
           {props.data
             ? props.data.map((d, i) => (
